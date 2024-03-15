@@ -4,7 +4,9 @@
 
 Este corpus ha sido extraído de la página Web [www.masquemedicos.com](https://masquemedicos.com/). Es una colección de opiniones de pacientes sobre entidades médicas que provienen de seis países (Chile, Colombia,Ecuador, España, Méjico, Venezuela). Está compuesto de 743 opiniones sobre 34 especialidades médicas. Del total de las opiniones, 109 son negativas y 634 son positivas. Las opiniones están etiquetadas por el paciente en una escala de 0 a 5 estrellas.
 
-Para cualquier consulta sobre el corpus envía un email a M. Teresa Martín-Valdivia (maite@ujaen.es).
+## Disponibilidad
+
+Para cualquier consulta sobre el corpus o solicitar su utilización envía un email a M. Teresa Martín-Valdivia (maite@ujaen.es).
 
 ## Cómo citar
 
